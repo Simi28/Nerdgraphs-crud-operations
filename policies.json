@@ -1,0 +1,13 @@
+[
+    {
+        "id": "5519105",
+        "name": "Updated Policy 1",
+        "incidentPreference": "PER_POLICY"
+    },
+    {
+        "id": " 5519106",
+        "name": "Updated Policy 2",
+        "incidentPreference": "PER_CONDITION"
+    }
+    
+]
